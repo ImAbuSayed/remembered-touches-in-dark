@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/remembered-touches-in-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Remembered Touches In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/remembered-touches-in-dark/) |
+| **Get License** | [Request Licensing for Remembered Touches In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/remembered-touches-in-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0c799e71333d8ed514279e1fd8fd5d0619f0eee88d46b056602996f09be251ac` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
