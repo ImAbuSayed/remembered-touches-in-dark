@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/remembered-touches-in-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Remembered Touches In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/remembered-touches-in-dark/) |
+| **Get License** | [Secure Licensing Rights for Remembered Touches In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/remembered-touches-in-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows fall across the wooden floor
+> Your fingers trace a memory on my door
+> I can still feel the fire from the spark
+> These remembered touches in the dark
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
